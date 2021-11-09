@@ -4,13 +4,13 @@ The task of this project is to perform classification using machine learning. It
 
 # Dataset
 
-Pima Indians Diabetes Database dataset will be used for training, and testing. The dataset contains medical data of female patients above the age of 21 and 768 instances with the diagnostic measurements of 8 features. The 8 features are as follows:
-        1 Glucose (Blood Glucose level)
-        2 Pregnancies (The number of pregnancies the patient has had)
-        3 Blood Pressure(mm Hg)
-        4 Skin Thickness(Triceps skin fold thickness (mm))
-        5 Insulin level
-        6 BMI (Body Mass Index : weight in kg/(height in m)2
-        )
-        7 Diabetes Pedigree Function
-        8 Age (In years)
+Pima Indians Diabetes Database dataset will be used for training, and testing. The dataset contains medical data of female patients above the age of 21 and 768 instances with the diagnostic measurements of 8 features. The 8 features are as follows: <br>
+
+        1 Glucose (Blood Glucose level) <br>
+        2 Pregnancies (The number of pregnancies the patient has had)<br>
+        3 Blood Pressure(mm Hg)<br>
+        4 Skin Thickness(Triceps skin fold thickness (mm))<br>
+        5 Insulin level<br>
+        6 BMI (Body Mass Index : weight in kg/(height in m)^2)<br>
+        7 Diabetes Pedigree Function<br>
+        8 Age (In years)<br>
